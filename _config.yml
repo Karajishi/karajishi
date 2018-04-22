@@ -16,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: #karajishifm
 itunes_podcast_url:
 keywords: game,anime,manga,books,Rika_Jyogasaki
 language: ja
@@ -25,5 +25,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Karajishi.fm
+url: karajishi.github.io/
