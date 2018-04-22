@@ -1,16 +1,12 @@
 actors:
   alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+    image_url: /images/actors/hagyou.png
+    name: hagyou
+    url: https://twitter.com/ha_gyou
+author: hagyou
+description: ゲーム，アニメ，マンガ，本，イベント，城ヶ崎莉嘉さんについて話すPodcastのページ
+description_long: そのうち書く！
+email: karajishifm@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -22,7 +18,7 @@ exclude:
 google_analytics:
 hashtag: examplehashtag
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: game,anime,manga,books,Rika_Jyogasaki
 language: ja
 markdown: kramdown
 permalink: /episode/:title
