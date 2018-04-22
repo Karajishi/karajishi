@@ -1,3 +1,2 @@
-# Yattecast
-
-https://r7kamura.github.io/yattecast/
+# Karajishi.fm
+なんか始まったな
