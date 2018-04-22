@@ -1,6 +1,6 @@
 actors:
   alice:
-    image_url: /images/actors/hagyou.png
+    image_url: /images/actors/hagyou.jpg
     name: hagyou
     url: https://twitter.com/ha_gyou
 author: hagyou
