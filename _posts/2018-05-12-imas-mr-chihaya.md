@@ -3,7 +3,7 @@ actor_ids:
   - hagyou
 audio_file_path: /audio/2018-05-12.mp3
 audio_file_size: 36.2
-date: 2018-05-06 00:10:00 +0900
+date: 2018-05-13 00:10:00 +0900
 description: "アイマスMR千早回の3回目（20：00～）を見て衝撃を受けた話です．とにかく喋りたかったんだ．本当に，とんでもないものを見てきたんだよ私は．"
 duration: "55:43"
 layout: article
