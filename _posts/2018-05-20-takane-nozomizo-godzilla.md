@@ -12,7 +12,7 @@ title: "4. 四条貴音とリズと青い鳥とゴジラと人と総選挙"
 
 ## 関連リンク
 
-- [はてなブックマーク - 3. アイマスMR千早回の衝撃，感動，現実とは，アイドルとは，千早とは | Karajishi.fm](http://b.hatena.ne.jp/entry/s/karajishi.github.io/episode/imas-mr-chihaya)
+- [はてなブックマーク - 3. アイマスMR千早回の衝撃，感動，現実とは，アイドルとは，千早とは  Karajishi.fm](http://b.hatena.ne.jp/entry/s/karajishi.github.io/episode/imas-mr-chihaya)
 - [THE IDOLM＠STER MR ST@GE!! MUSIC♪GROOVE☆ バンダイナムコエンターテインメント公式サイト](http://idolmaster.jp/event/dmm_theater.php)
 - [四条貴音 (しじょうたかね)とは【ピクシブ百科事典】](https://dic.pixiv.net/a/四条貴音)
 - [『リズと青い鳥』公式サイト](http://liz-bluebird.com)
