@@ -26,3 +26,8 @@ title: "1. 城ヶ崎莉嘉さんをよろしくおねがいします"
 - [山本希望さんのツイート](https://twitter.com/nojomiy/status/731125252260929536)
 - [【デレステ】「Twin☆くるっ★テール」イベントコミュまとめ - ニコニコ動画](http://www.nicovideo.jp/watch/sm32011062)
 - [メッセージはこちらからどうぞ](https://docs.google.com/forms/d/e/1FAIpQLSc0LScoyM6ARyFxh8_HlyONtgfaFQRQhnTBl1_pg-gU_VmqWA/viewform?usp=sf_link)
+
+## メッセージ
+
+- [web拍手](http://clap.webclap.com/clap.php?id=hagyou)
+- [メッセージはこちらからどうぞ（読み上げは実施しない予定です）](https://docs.google.com/forms/d/e/1FAIpQLSc0LScoyM6ARyFxh8_HlyONtgfaFQRQhnTBl1_pg-gU_VmqWA/viewform?usp=sf_link)

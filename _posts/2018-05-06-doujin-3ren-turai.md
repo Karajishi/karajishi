@@ -35,4 +35,5 @@ title: "2.5. 同人イベントに行きまくったイキリオタクがイキ�
 
 ## メッセージ
 
+- [web拍手](http://clap.webclap.com/clap.php?id=hagyou)
 - [メッセージはこちらからどうぞ（読み上げは実施しない予定です）](https://docs.google.com/forms/d/e/1FAIpQLSc0LScoyM6ARyFxh8_HlyONtgfaFQRQhnTBl1_pg-gU_VmqWA/viewform?usp=sf_link)

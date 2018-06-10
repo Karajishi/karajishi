@@ -22,4 +22,5 @@ title: "4. 四条貴音とリズと青い鳥とゴジラと人と総選挙"
 
 ## メッセージ
 
+- [web拍手](http://clap.webclap.com/clap.php?id=hagyou)
 - [メッセージはこちらからどうぞ（読み上げは実施しない予定です）](https://docs.google.com/forms/d/e/1FAIpQLSc0LScoyM6ARyFxh8_HlyONtgfaFQRQhnTBl1_pg-gU_VmqWA/viewform?usp=sf_link)

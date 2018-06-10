@@ -20,4 +20,5 @@ title: "5. 今，（千早と）スタート！"
 
 ## メッセージ
 
+- [web拍手](http://clap.webclap.com/clap.php?id=hagyou)
 - [ご意見，ご感想などはこちらからどうぞ](https://docs.google.com/forms/d/e/1FAIpQLSc0LScoyM6ARyFxh8_HlyONtgfaFQRQhnTBl1_pg-gU_VmqWA/viewform?usp=sf_link)
