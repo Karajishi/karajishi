@@ -14,8 +14,8 @@ title: "8, オタクがひたすら早口でしゃべる回"
 
 - [THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@FUKUOKA](https://amzn.to/2mRtvG1)
 - [BanG Dream!（バンドリ！）公式サイト](https://bang-dream.com/)
-- [百合が俺を人間にしてくれた――宮澤伊織インタビュー｜Hayakawa Books & Magazines（β）](https://www.hayakawabooks.com/n/n0b70a085dfe0)
-- [～ガルパスペシャルゲーム！キラキラDAY～ | バンドリ！ ガールズバンドパーティ！×パシフィック・リーグ6球団コラボ](https://bang-dream.bushimo.jp/pa-gbp/kirakira/)
+- [百合が俺を人間にしてくれた――宮澤伊織インタビュー Hayakawa Books & Magazines（β）](https://www.hayakawabooks.com/n/n0b70a085dfe0)
+- [～ガルパスペシャルゲーム！キラキラDAY～  バンドリ！ ガールズバンドパーティ！×パシフィック・リーグ6球団コラボ](https://bang-dream.bushimo.jp/pa-gbp/kirakira/)
 - [VtuberLand！よみうりランドで開園決定！](http://tieup.tokyo/vtuberland/)
 - [ユリイカ 2018年7月号 特集=バーチャルYouTuber](https://amzn.to/2vZ8nlB)
 - [コンプティーク9月号増刊 Vティーク](https://amzn.to/2vAfpgW)
