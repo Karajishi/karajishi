@@ -4,7 +4,7 @@ actor_ids:
 audio_file_path: /audio/2018-08-12.mp3
 audio_file_size: 33.1
 date: 2018-08-12 21:30:00 +0900
-description: "ガルパ，コラボイベのチケットが心配，ストーリー全部見るのきつすぎ問題，バーチャルYoutuber気になる，アイドルマスターステラステージ，ボーダーブレイクPS4版について話しました．好きなことをひたすら適当に喋るだけの回になってしまった……．"
+description: "ガルパ，コラボイベのチケットが心配，ストーリー全部見るのきつすぎ問題，バーチャルYoutuber気になる，アイドルマスターステラステージ，ボーダーブレイクPS4版について話しました．好きなことをひたすら脈絡なく喋るだけの回になってしまった……．"
 duration: "52:28"
 layout: article
 title: "8, オタクがひたすら早口でしゃべる回"
@@ -14,6 +14,7 @@ title: "8, オタクがひたすら早口でしゃべる回"
 
 - [THE IDOLM@STER CINDERELLA GIRLS 5thLIVE TOUR Serendipity Parade!!!@FUKUOKA](https://amzn.to/2mRtvG1)
 - [BanG Dream!（バンドリ！）公式サイト](https://bang-dream.com/)
+- [百合が俺を人間にしてくれた――宮澤伊織インタビュー｜Hayakawa Books & Magazines（β）](https://www.hayakawabooks.com/n/n0b70a085dfe0)
 - [～ガルパスペシャルゲーム！キラキラDAY～ | バンドリ！ ガールズバンドパーティ！×パシフィック・リーグ6球団コラボ](https://bang-dream.bushimo.jp/pa-gbp/kirakira/)
 - [VtuberLand！よみうりランドで開園決定！](http://tieup.tokyo/vtuberland/)
 - [ユリイカ 2018年7月号 特集=バーチャルYouTuber](https://amzn.to/2vZ8nlB)
