@@ -1,7 +1,7 @@
 ---
 actor_ids:
   - hagyou
-audio_file_path: /audio/2018-09-10.mp3
+audio_file_path: /audio/2018-11-19.mp3
 audio_file_size: 62.9
 date: 2018-11-19 00:10:00 +0900
 description: "レヴュースタァライト（アニメ、舞台）、Roselia Live「Vier」、シンデレラガールズ6thライブメットライフドーム公演について話しました。久々の回ですが、語彙力が全然ありません……。"
