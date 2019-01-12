@@ -3,7 +3,7 @@ actor_ids:
   - hagyou
 audio_file_path: /audio/2019-01-12.mp3
 audio_file_size: 45.7
-date: 2019-01-05 1:10:00 +0900
+date: 2019-01-12 23:55:00 +0900
 description: "Fate/SN Hevens feel 第二章、ラブライブサンシャイン劇場版、ゲームいろいろ、その他映画いろいろの話をしました。桜……桜……桜……。次は少し先になりそうなので気長にお待ち下さい。"
 duration: "72:52"
 layout: article
