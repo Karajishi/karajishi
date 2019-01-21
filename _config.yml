@@ -4,7 +4,7 @@ actors:
     name: hagyou
     url: https://twitter.com/ha_gyou
 author: hagyou
-description: ゲーム，アニメ，マンガ，本，イベント，城ヶ崎莉嘉さんについて話すPodcastのページ
+description: ゲーム，アニメ，マンガ，本，イベント，城ヶ崎莉嘉さんについて話すPodcastのページ　https://karajishi.github.io/
 description_long: コンテンツについて話し，紅茶を飲み，ガチャを回し，城ヶ崎莉嘉に未来を見せるPodcastです．
 email: karajishifm@gmail.com
 exclude:
@@ -17,7 +17,7 @@ exclude:
   - vendor
 google_analytics: UA-96537340-3
 hashtag: karajishifm
-itunes_podcast_url:
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/karajishi-fm/id1375321261
 keywords: game,anime,manga,books,Rika_Jyogasaki
 language: ja
 markdown: kramdown
