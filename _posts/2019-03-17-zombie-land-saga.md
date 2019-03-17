@@ -1,7 +1,7 @@
 ---
 actor_ids:
   - hagyou
-audio_file_path: /audio/2019-02-11.mp3
+audio_file_path: /audio/2019-03-17.mp3
 audio_file_size: 25.8
 date: 2019-03-17 22:45:00 +0900
 description: "ゾンビランドサガLIVE～フランシュシュみんなでおらぼう！～について話しました。"
